@@ -4,7 +4,7 @@ I'm Fabricio, a passionate developer and tech enthusiast. Welcome to my GitHub p
 
 ## About Me
 
-- 🌱 I’m learning Java/Go/Infra/Cloud.
+- 🌱 I’m learning Java/CSharp/Infra/Cloud.
 - 📫 How to reach me: fabriciocursino09@gmail.com
 
 ## Technologies & Tools
